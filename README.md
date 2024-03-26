@@ -39,7 +39,7 @@
 
 
 
-```c#
+```yml
 name: Publish Package to npmjs
 on:
   push:
