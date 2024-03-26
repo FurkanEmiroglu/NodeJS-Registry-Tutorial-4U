@@ -8,24 +8,23 @@
 
 ### Example package.json file
 
-```c#
+```json
 {
-  "author": "Author Name Here",
-  "name": "com.scopename.packagename",
-  "displayName": "UPM GUI display name",
+  "author": "Furkan Emiroglu",
+  "name": "com.femiroglu.tutorialpackage",
+  "displayName": "Tutorial Package",
   "version": "1.0.0",
   "unity": "2021.3",
-  "description": "Package description",
-  "documentationUrl": "Documentation url, UPM will show this",
-  "changelogUrl": "Changelog url, UPM will show this",
-  "licensesUrl": "License url, UPM will show this",
+  "description": "Just a tutorial package",
   "repository": {
     "type": "git",
-    "url": "github url for UPM API"
-  }
-}
-~                               
-
+    "url": "github:furkanemiroglu/nodejs-registry-tutorial-4u"
+  },
+  "documentationUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "changelogUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "licensesUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "dependencies": {}
+}                           
 ```
 
 
