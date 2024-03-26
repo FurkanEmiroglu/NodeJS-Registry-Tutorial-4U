@@ -1,0 +1,16 @@
+{
+  "author": "Furkan Emiroglu",
+  "name": "com.femiroglu.tutorialpackage",
+  "displayName": "Tutorial Package",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Just a tutorial package",
+  "repository": {
+    "type": "git",
+    "url": "github:furkanemiroglu/nodejs-registry-tutorial-4u"
+  },
+  "documentationUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "changelogUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "licensesUrl": "https://github.com/FurkanEmiroglu/NodeJS-Registry-Tutorial-4U#readme",
+  "dependencies": {}
+}
